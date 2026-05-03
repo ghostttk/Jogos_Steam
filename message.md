@@ -1,4 +1,4 @@
-# CATALOGO DE JOGOS - STEAM
+# JOGOS - STEAM
 
 ## SERIES E COLECOES
 * **Age of:** Empires II (2013), Mythology: Extended Edition, Wonders III.
