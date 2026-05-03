@@ -8,7 +8,7 @@
 * **Batman Arkham:** Asylum, City, Knight, Origins, Origins Blackgate.
 * **BioShock:** 1, 2, Infinite, 1 Remastered, 2 Remastered.
 * **Borderlands:** GOTY, GOTY Enhanced, 2, The Pre-Sequel.
-* **Call of Duty** Call of Duty (Classic)
+* **Call of Duty:** Call of Duty (Classic)
 * **Call of Juarez:** Call of Juarez Gunslinger.
 * **Command & Conquer:** Red Alert 3, Red Alert 3 - Uprising.
 * **Commandos:** Behind Enemy Lines, Beyond the Call of Duty, 2: Men of Courage, 3: Destination Berlin.
